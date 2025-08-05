@@ -15,7 +15,7 @@ Image Object Remover (Premium) 🎯
 Resume Analyzer 📄
 
 Live Preview & Source Code 🔗
-Live App: https://quick-ai-tau-eight.vercel.app/🌐
+Live App: https://quick-ai-tau-eight.vercel.app
 
 Setup Instructions 🛠️
 1. Clone the Repository and Prepare Assets
